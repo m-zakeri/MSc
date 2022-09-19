@@ -1,5 +1,5 @@
-# MSc
-My M.Sc. thesis preprint
+# Morteza Zakeri's MSc Thesis
+My M.Sc. thesis preprint sources titled 'Automatic test data generation in file format fuzzers' is publicly available to view and download. 
 
 
 ## How to run?
